@@ -213,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django tests.Test: pages.tests">
+  <component name="RunManager" selected="Django server.hello_project">
     <configuration name="Test: pages.tests" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
       <module name="hello_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
